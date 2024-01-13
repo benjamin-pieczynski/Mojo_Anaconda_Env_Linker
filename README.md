@@ -17,9 +17,9 @@ Displays the current active MOJO_PYTHON_LIBRARY.
 
 2.) Move the files to the desired directory and give them executabke premissions `chmod +x init_mojoconda.sh`
 
-3.) Include an alias for each script in a .bash .bashrc .bash_aliases or .zshrc. ***Optional Step
+3.) Include an alias for each script in a `.bash`, `.bashrc`, `.bash_aliases`, or `.zshrc`. `alias = 'path/to/init_mojoconda.sh'` ***Optional Step
 
-4.) `source ~/.your_bash_file`
+4.) `source ~/.your_bash_file` ***Optional Step
 
 5.) Activate the conda environment you want to create a MOJO_PYTHON_LIBRARY link for. `conda activate your_env`
 
